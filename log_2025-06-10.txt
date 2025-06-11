@@ -1,0 +1,31 @@
+2025-06-10 17:30:17 - FALLO - Sin respuesta
+2025-06-10 17:31:43 - PING FALLO - Sin respuesta
+2025-06-10 17:35:10 - PING FALLO - Sin respuesta
+2025-06-10 17:38:23 - PING FALLO - Sin respuesta
+2025-06-10 17:41:10 - PING FALLO - Sin respuesta
+2025-06-10 17:41:21 - PING FALLO - Sin respuesta
+2025-06-10 17:41:41 - PING FALLO - Sin respuesta
+2025-06-10 17:41:47 - PING FALLO - Sin respuesta
+2025-06-10 17:43:52 - PING FALLO - Sin respuesta
+2025-06-10 17:44:01 - PING FALLO - Sin respuesta
+2025-06-10 17:44:10 - PING FALLO - Sin respuesta
+2025-06-10 17:44:11 - PING FALLO - Sin respuesta
+2025-06-10 17:44:12 - PING FALLO - Sin respuesta
+2025-06-10 17:44:40 - PING FALLO - Sin respuesta
+2025-06-10 17:44:49 - PING FALLO - Sin respuesta
+2025-06-10 17:45:47 - PING FALLO - Sin respuesta
+2025-06-10 17:45:53 - PING FALLO - Sin respuesta
+2025-06-10 17:45:58 - PING FALLO - Sin respuesta
+2025-06-10 17:46:49 - OK - Tiempo de respuesta: 6 ms
+2025-06-10 17:46:56 - OK - Tiempo de respuesta: 3 ms
+2025-06-10 17:46:57 - OK - Tiempo de respuesta: 1 ms
+2025-06-10 17:47:55 - OK - Tiempo de respuesta: 52 ms
+2025-06-10 17:48:04 - OK - Tiempo de respuesta: 53 ms
+2025-06-10 17:48:17 - OK - Tiempo de respuesta: 54 ms
+2025-06-10 17:48:26 - OK - Tiempo de respuesta: 52 ms
+2025-06-10 17:59:18 - OK - Tiempo de respuesta: 52 ms
+2025-06-10 18:00:31 - OK - Tiempo de respuesta: 52 ms
+2025-06-10 18:14:31 - OK - Tiempo de respuesta: 76 ms
+2025-06-10 18:18:00 - OK - Tiempo de respuesta: 57 ms
+2025-06-10 18:19:01 - OK - Tiempo de respuesta: 76 ms
+2025-06-10 18:29:02 - OK - Tiempo de respuesta: 84 ms
